@@ -27,6 +27,8 @@
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    PY.一键换装
 ### 大数据框架
 - https://github.com/taosdata/TDengine    C.对标kafka、Hadoop数据处理引擎
+### 数据图形化展示
+- https://github.com/bokeh/bokeh    PY.Web界面展示。11k。
 ### 编辑器
 - https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
 ### Web应用框架
