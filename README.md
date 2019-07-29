@@ -6,13 +6,15 @@
 - https://github.com/Quorafind/golang-developer-roadmap-cn Go 开发者的路线图
 器学习python笔记
 - https://github.com/jackfrued/Python-100-Days 100天精通python
-- https://github.com/fxsjy/jieba    PY.结巴中文分词
-- https://github.com/thunlp/THULAC-Python    PY.清华中文分词
-- https://github.com/lancopku/PKUSeg-python    PY3.北大中文分词
 - https://github.com/TheAlgorithms/Python    PY.一是各种算法的基本原理讲解，二是各种算法的代码实现。
 - https://github.com/littlecodersh/itchat    PY.微信个人号接口、微信机器人及命令行微信
 - https://github.com/youfou/wxpy    PY.微信个人号 API
 - https://github.com/insoxin/API    PHP.基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
+### 语言集
+- https://github.com/fxsjy/jieba    PY.结巴中文分词
+- https://github.com/thunlp/THULAC-Python    PY.清华中文分词
+- https://github.com/lancopku/PKUSeg-python    PY3.北大中文分词
+- https://github.com//chinese-poetry/chinese-poetry    PY.中华最全诗词库数据
 ### 机器学习
 - https://paperswithcode.com/sota 机器学习具体项目、演示、代码
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ 麻省理工机器学习视频
