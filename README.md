@@ -1,6 +1,7 @@
 # wiki_TipSkill
  wiki_TipSkill
 # 计算机技术
+- https://github.com/arpitjindal97/technology_books    编程语言晋级。Premium eBook free for Geeks
 - https://books.studygolang.com/gopl-zh/ GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book GO语言高级编程
 - https://github.com/Quorafind/golang-developer-roadmap-cn Go 开发者的路线图
@@ -33,6 +34,7 @@
 - https://github.com/bokeh/bokeh    PY.Web界面展示。11k。
 ### 编辑器
 - https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
+- https://github.com/ricklamers/gridstudio    PY/JS.类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。
 ### Web应用框架
 - https://goframe.org/index    GO.一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    GO.一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
