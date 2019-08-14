@@ -11,6 +11,7 @@
 - https://github.com/littlecodersh/itchat    PY.微信个人号接口、微信机器人及命令行微信
 - https://github.com/youfou/wxpy    PY.微信个人号 API
 - https://github.com/insoxin/API    PHP.基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
+- https://github.com/ziishaned/learn-regex    正则表达式学习
 ### 语言集
 - https://github.com/fxsjy/jieba    PY.结巴中文分词
 - https://github.com/thunlp/THULAC-Python    PY.清华中文分词
