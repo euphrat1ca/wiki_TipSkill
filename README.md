@@ -29,13 +29,16 @@
 - https://github.com/iperov/DeepFaceLab    PY,BASH.基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频
 - https://github.com/NVIDIA/pix2pixHD    PY.NVIDIA利用GANs神经网络学习的Image2Image技术。
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    PY.一键换装
+- https://github.com/ecjtuseclab/AILoginBlasting    PY.服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。
 ### 大数据框架
 - https://github.com/taosdata/TDengine    C.对标kafka、Hadoop数据处理引擎
 ### 数据图形化展示
 - https://github.com/bokeh/bokeh    PY.Web界面展示。11k。
-### 编辑器
+### 编辑器IDE
 - https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
 - https://github.com/ricklamers/gridstudio    PY/JS.类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。
+- https://github.com/rjpcomputing/luaforwindows/    Lua.Windows下的lua编辑器
+- https://github.com/s4n7h0/Halcyon/    Java. IDE for Nmap Script NSE编辑器
 ### Web应用框架
 - https://goframe.org/index    GO.一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    GO.一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
@@ -51,3 +54,8 @@
 - https://github.com/CriseLYJ/awesome-python-login-model    PY.各大网站登陆方式
 - https://github.com/tikazyq/crawlab    PY3.爬虫管理平台
 - https://github.com/FortyNorthSecurity/EyeWitness 获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
+### 情报源获取
+- https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    《Combat Intelligence》（战斗情报）
+- https://www.academia.edu/16427338/Field_Manual_30-5_Combat_Intelligence_1951?auto=download    《Field Manual 30-5, Combat Intelligence 1951》（野战手册30-5，战斗情报1951）
+- https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    《KUBARK反间谍审讯》手册
+- https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf/    CIA官网《Simple Sabotage Field Manual》 手册
