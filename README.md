@@ -32,6 +32,9 @@
 - https://github.com/ecjtuseclab/AILoginBlasting    PY.服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。
 ### 大数据框架
 - https://github.com/taosdata/TDengine    C.对标kafka、Hadoop数据处理引擎
+### web框架
+- http://www.bt.cn 宝塔网站管理系统
+- https://github.com/litespeedtech    轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:litespeedtech.com。
 ### 数据图形化展示
 - https://github.com/bokeh/bokeh    PY.Web界面展示。11k。
 ### 编辑器IDE
